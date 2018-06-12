@@ -37,7 +37,6 @@ def bust_a_move
 end
 
 starting_stance
-skip_step(left)
 base_footwork
 bob_the_reins
 lasso
