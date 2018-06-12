@@ -35,4 +35,3 @@ end
 def bust_a_move
   puts "Be cool and be snazzy"
 end
-
