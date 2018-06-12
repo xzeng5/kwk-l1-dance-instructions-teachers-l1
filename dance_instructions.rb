@@ -17,3 +17,6 @@ def base_footwork
   puts "Return right foot to the ground"
   skip_step("left")
 end
+
+def bob_the_reins
+end
