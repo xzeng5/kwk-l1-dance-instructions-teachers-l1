@@ -4,7 +4,7 @@ def starting_stance
   puts "Plant legs far apart, bend knees slightly and keep posture loose"
 end
 
-foot_position = "left", "right"
+left = "left"
 
 def skip_step("left")
   puts "Lower #{"left"} foot to the ground"
