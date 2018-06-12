@@ -35,3 +35,10 @@ end
 def bust_a_move
   puts "Be cool and be snazzy"
 end
+
+starting_stance
+skip_step(left)
+base_footwork
+bob_the_reins
+lasso
+bust_a_move
