@@ -6,6 +6,9 @@ end
 
 foot_position = "left", "right"
 
-def skip_step(foot_position)
+def skip_step("left")
+  puts "Lower #{left} foot to the ground
+Bounce left foot back up slightly, kicking it a few inches back
+Left, Right, Left and Left
   
 end
