@@ -12,4 +12,3 @@ def skip_step(left)
   puts "Briefly Left, Right, Left and Left"
 end
 
-skip_step(left)
