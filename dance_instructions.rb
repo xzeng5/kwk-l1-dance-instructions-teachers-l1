@@ -9,8 +9,3 @@ def skip_step_left
   puts "Bounce left foot back up slightly, kicking it a few inches back"
   puts "Briefly Left, Right, Left and Left"
 end
-
-def skip_step
-  skip_step_left
-  skip_step_right
-end
