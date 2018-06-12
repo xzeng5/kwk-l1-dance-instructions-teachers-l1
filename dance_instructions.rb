@@ -6,5 +6,5 @@ end
 
 foot_position = "left", "right"
 
-def skip_step
+def skip_step(foot_position)
 end
