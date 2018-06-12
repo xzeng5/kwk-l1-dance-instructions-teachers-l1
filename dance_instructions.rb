@@ -12,3 +12,5 @@ def skip_step(left)
   puts "Briefly Left, Right, Left and Left"
 end
 
+def base_footwork
+end
