@@ -6,4 +6,5 @@ end
 
 def skip_step
   skip_step_left
+  skip_step_right
 end
